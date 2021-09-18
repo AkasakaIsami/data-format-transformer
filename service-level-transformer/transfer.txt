@@ -1,0 +1,192 @@
+  "ts-basic-service": 1.0,
+  "ts-admin-user-service": 1.0,
+  "ts-cancel-service": 1.0,
+  "ts-price-service": 1.0,
+  "ts-travel2-service": 1.0,
+  "ts-travel-service": 1.0,
+  "ts-train-service": 1.0,
+  "ts-auth-service": 0.8333333333333334,
+  "ts-route-service": 0.7999999999999998,
+  "ts-food-map-service": 0.2,
+  "ts-admin-basic-info-service": 1.0,
+  "ts-user-service": 1.0,
+  "ts-execute-service": 1.0,
+  "ts-ticketinfo-service": 1.0,
+  "ts-admin-travel-service": 1.0,
+  "ts-admin-route-service": 1.0,
+  "ts-route-plan-service": 1.0,
+  "ts-order-service": 1.0,
+  "ts-consign-service": 1.0,
+  "ts-order-other-service": 1.0,
+  "ts-config-service": 1.0,
+  "ts-contacts-service": 1.0,
+  "ts-food-service": 1.0,
+  "ts-station-service": 1.0,
+  "ts-notification-service": 1.0,
+  "ts-travel-plan-service": 1.0,
+  "ts-rebook-service": 1.0,
+  "ts-admin-order-service": 1.0,
+  "ts-inside-payment-service": 0.6666666666666666,
+  "ts-verification-code-service": 1.0,
+  "ts-seat-service": 1.0,
+  "ts-consign-price-service": 1.0,
+ts-basic-service : 1.0
+ts-admin-user-service : 1.0
+ts-cancel-service : 1.0
+ts-price-service : 0.27152380952380956
+ts-travel2-service : 0.2545037401933954
+ts-travel-service : 0.37610899896513006
+ts-train-service : 0.2844318181818182
+ts-auth-service : 0.2871212121212121
+ts-route-service : 0.08298059964726631
+ts-food-map-service : 0.16666666666666666
+ts-admin-basic-info-service : 1.0
+ts-user-service : 0.38059523809523815
+ts-execute-service : 1.0
+ts-ticketinfo-service : 1.0
+ts-admin-travel-service : 1.0
+ts-admin-route-service : 1.0
+ts-route-plan-service : 1.0
+ts-order-service : 0.2527640426297225
+ts-consign-service : 0.6842105263157894
+ts-order-other-service : 0.4475224572587656
+ts-config-service : 0.293968253968254
+ts-contacts-service : 0.2940555555555556
+ts-food-service : 1.0
+ts-station-service : 0.25682539682539673
+ts-notification-service : 1.0
+ts-travel-plan-service : 1.0
+ts-rebook-service : 1.0
+ts-admin-order-service : 1.0
+ts-inside-payment-service : 0.21255411255411258
+ts-verification-code-service : 1.0
+ts-seat-service : 1.0
+ts-consign-price-service : 1.0
+ts-basic-service	1.0
+ts-admin-user-service	1.0
+ts-cancel-service	1.0
+ts-price-service	0.6
+ts-travel2-service	0.3333333333333333
+ts-travel-service	0.06666666666666667
+ts-train-service	0.6
+ts-auth-service	0.3333333333333333
+ts-route-service	0.5
+ts-food-map-service	1.0
+ts-admin-basic-info-service	1.0
+ts-user-service	0.6
+ts-execute-service	1.0
+ts-ticketinfo-service	0.6666666666666666
+ts-admin-travel-service	1.0
+ts-admin-route-service	1.0
+ts-route-plan-service	1.0
+ts-order-service	0.15555555555555556
+ts-consign-service	1.0
+ts-order-other-service	0.047619047619047616
+ts-config-service	0.6
+ts-contacts-service	0.6
+ts-food-service	1.0
+ts-station-service	0.2857142857142857
+ts-notification-service	1.0
+ts-travel-plan-service	1.0
+ts-rebook-service	1.0
+ts-admin-order-service	1.0
+ts-inside-payment-service	0.0
+ts-verification-code-service	1.0
+ts-seat-service	0.0
+ts-consign-price-service	1.0
+ts-basic-service	0.12529832935560858
+ts-admin-user-service	0.0
+ts-cancel-service	1.0
+ts-price-service	0.32500000000000007
+ts-travel2-service	0.20476190476190478
+ts-travel-service	0.09027237354085603
+ts-train-service	0.33
+ts-auth-service	0.3333333333333333
+ts-route-service	0.1923076923076923
+ts-food-map-service	1.0
+ts-admin-basic-info-service	0.0
+ts-user-service	0.325
+ts-execute-service	0.0
+ts-ticketinfo-service	0.12529832935560858
+ts-admin-travel-service	0.0
+ts-admin-route-service	0.0
+ts-route-plan-service	1.0
+ts-order-service	0.08269005847953217
+ts-consign-service	0.0
+ts-order-other-service	0.04201680672268907
+ts-config-service	0.33
+ts-contacts-service	0.325
+ts-food-service	1.0
+ts-station-service	0.15714285714285717
+ts-notification-service	1.0
+ts-travel-plan-service	1.0
+ts-rebook-service	1.0
+ts-admin-order-service	0.0
+ts-inside-payment-service	0.0
+ts-verification-code-service	1.0
+ts-seat-service	0.0
+ts-consign-price-service	1.0
+ts-basic-service	0.25
+ts-admin-user-service	0.6666666666666666
+ts-cancel-service	1.0
+ts-price-service	1.0
+ts-travel2-service	0.20634920634920637
+ts-travel-service	0.28
+ts-train-service	1.0
+ts-auth-service	0.3333333333333333
+ts-route-service	1.0
+ts-food-map-service	1.0
+ts-admin-basic-info-service	0.15789473684210525
+ts-user-service	0.4
+ts-execute-service	1.0
+ts-ticketinfo-service	0.4
+ts-admin-travel-service	0.625
+ts-admin-route-service	1.0
+ts-route-plan-service	1.0
+ts-order-service	0.8
+ts-consign-service	0.3333333333333333
+ts-order-other-service	0.7142857142857143
+ts-config-service	1.0
+ts-contacts-service	1.0
+ts-food-service	1.0
+ts-station-service	1.0
+ts-notification-service	1.0
+ts-travel-plan-service	1.0
+ts-rebook-service	1.0
+ts-admin-order-service	0.75
+ts-inside-payment-service	0.3333333333333333
+ts-verification-code-service	1.0
+ts-seat-service	0.5714285714285714
+ts-consign-price-service	1.0
+ts-basic-service	0.3642671292281006
+ts-admin-user-service	0.37286324786324787
+ts-cancel-service	1.0
+ts-price-service	0.0
+ts-travel2-service	0.031182939500987435
+ts-travel-service	0.07130726291077134
+ts-train-service	0.0
+ts-auth-service	0.0
+ts-route-service	0.0
+ts-food-map-service	0.0
+ts-admin-basic-info-service	0.0863157894736842
+ts-user-service	0.1
+ts-execute-service	1.0
+ts-ticketinfo-service	0.2636865896534405
+ts-admin-travel-service	0.5022727272727273
+ts-admin-route-service	0.3846153846153846
+ts-route-plan-service	1.0
+ts-order-service	0.0
+ts-consign-service	0.0
+ts-order-other-service	0.0
+ts-config-service	0.0
+ts-contacts-service	0.0
+ts-food-service	1.0
+ts-station-service	0.0
+ts-notification-service	1.0
+ts-travel-plan-service	1.0
+ts-rebook-service	1.0
+ts-admin-order-service	0.5249999999999999
+ts-inside-payment-service	0.0
+ts-verification-code-service	1.0
+ts-seat-service	0.02821316614420063
+ts-consign-price-service	1.0
