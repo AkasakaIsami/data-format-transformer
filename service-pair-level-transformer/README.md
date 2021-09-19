@@ -2,26 +2,31 @@
 
 HOW TO USE:
 
-1. 如果是这样的数据：
+1.2.py是cqq写的，我根据他的脚本重写了一份
 
-<img src="./img/img01.png" alt="img" style="zoom:70%;" />
 
-那么直接将两行粘贴到transfer2.txt即可直接运行程序得到表格test.xls（粘贴的时候前面是FN，后面是FC哦）
 
-2. 但是如果是这样的数据：
+大致使用方法和服务级别指标是一样的，先在配置文件里写服务数量，再将原始数据写进文件、用脚本来执行格式转换，保存在excel文件中。由于输出格式的特殊性（每个服务对表达形式都不一样，做匹配工作量太大……）所以这里四个指标分三个文件处理和存储：
 
-<img src="./img/img02.png" alt="img" style="zoom:50%;" />
+| 指标      | 文件                                                         |
+| --------- | ------------------------------------------------------------ |
+| DAP       | transfer1.txt & service-pair-level-transformer-1.py &  result1.txt |
+| PIP & SIP | transfer2.txt &  service-pair-level-transformer-2.py & result2.txt |
+| TCC       | transfer3.txt &  service-pair-level-transformer-3.py & result3.txt |
 
-那么将这一段粘贴到word文档中，使用ctrl+h，进行如下替换：
+1. DAP
 
-<img src="./img/img03.png" alt="img" style="zoom:50%;" />
+   FN和FC都只有两行数据，把这两行数据输入transfer1.txt即可
 
-查找内容为^p，替换为逗号（英文的逗号），替换完后记得把最末尾的逗号删掉哦，然后再复制到transfer2.txt中，再运行程序即可
+   
 
-3. 得到表格如下：
+2. PIP & SIP
 
-<img src="./img/img04.png" alt="img" style="zoom:50%;" />
+   输入4个指标的所有数据，设服务数为n，transfer2.txt应有 nC2 * 4 条数据（比如train-ticket有32个服务，这里应该有1984行数据）
 
-在表格中选中需要区域，在开始->单元格->格式中点击自动设置行高和自动设置列高
+   
 
- 
+3. TCC
+
+   输入2个指标的所有数据，设服务数为n，transfer3.txt应有 nC2 * 2 条数据
+
