@@ -1,0 +1,920 @@
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 、 GET /api/v1/priceservice/prices 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：1270.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：254.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 、 DELETE /api/v1/priceservice/prices 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：1016.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：254.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 、 PUT /api/v1/priceservice/prices 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：1270.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：254.0
+GET /api/v1/priceservice/prices/{routeId}/{trainType} 、 POST /api/v1/priceservice/prices 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：60.0
+GET /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：12.0
+GET /api/v1/priceservice/prices 、 DELETE /api/v1/priceservice/prices 两接口中的最大的字段读写比为：12.0
+
+GET /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：48.0
+GET /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：12.0
+GET /api/v1/priceservice/prices 、 PUT /api/v1/priceservice/prices 两接口中的最大的字段读写比为：12.0
+
+GET /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：60.0
+GET /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：12.0
+GET /api/v1/priceservice/prices 、 POST /api/v1/priceservice/prices 两接口中的最大的字段读写比为：12.0
+
+DELETE /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：4.0
+DELETE /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：6.0
+PUT /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.2
+DELETE /api/v1/priceservice/prices 、 PUT /api/v1/priceservice/prices 两接口中的最大的字段读写比为：2.0
+
+DELETE /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：5.0
+DELETE /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：5.0
+POST /api/v1/priceservice/prices 接口读取、DELETE /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/priceservice/prices 、 POST /api/v1/priceservice/prices 两接口中的最大的字段读写比为：1.0
+
+PUT /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：6.0
+PUT /api/v1/priceservice/prices 接口读取、POST /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.2
+POST /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比之和为：4.0
+POST /api/v1/priceservice/prices 接口读取、PUT /api/v1/priceservice/prices 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/priceservice/prices 、 POST /api/v1/priceservice/prices 两接口中的最大的字段读写比为：2.0
+
+2021-09-21 14:15:08.759  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-travel2-service
+POST /api/v1/travel2service/trips/left 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1250.0
+POST /api/v1/travel2service/trips/left 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：125.0
+POST /api/v1/travel2service/trips 、 POST /api/v1/travel2service/trips/left 两接口中的最大的字段读写比为：125.0
+
+GET /api/v1/travel2service/routes/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1130.0
+GET /api/v1/travel2service/routes/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：113.0
+POST /api/v1/travel2service/trips 、 GET /api/v1/travel2service/routes/{tripId} 两接口中的最大的字段读写比为：113.0
+
+POST /api/v1/travel2service/trips 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：10.0
+POST /api/v1/travel2service/trips 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/travel2service/trips/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：10.0
+DELETE /api/v1/travel2service/trips/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/travel2service/trips 、 DELETE /api/v1/travel2service/trips/{tripId} 两接口中的最大的字段读写比为：1.0
+
+POST /api/v1/travel2service/trips 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：9.0
+POST /api/v1/travel2service/trips 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/travel2service/trips 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：11.0
+PUT /api/v1/travel2service/trips 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：1.1
+POST /api/v1/travel2service/trips 、 PUT /api/v1/travel2service/trips 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1130.0
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：113.0
+POST /api/v1/travel2service/trips 、 GET /api/v1/travel2service/train_types/{tripId} 两接口中的最大的字段读写比为：113.0
+
+POST /api/v1/travel2service/trip_detail 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：380.0
+POST /api/v1/travel2service/trip_detail 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：38.0
+POST /api/v1/travel2service/trips 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：38.0
+
+GET /api/v1/travel2service/admin_trip 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：100.0
+GET /api/v1/travel2service/admin_trip 接口读取、POST /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：10.0
+POST /api/v1/travel2service/trips 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：10.0
+
+POST /api/v1/travel2service/trips/left 、 GET /api/v1/travel2service/routes/{tripId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travel2service/trips/left 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：1250.0
+POST /api/v1/travel2service/trips/left 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：125.0
+POST /api/v1/travel2service/trips/left 、 DELETE /api/v1/travel2service/trips/{tripId} 两接口中的最大的字段读写比为：125.0
+
+POST /api/v1/travel2service/trips/left 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1125.0
+POST /api/v1/travel2service/trips/left 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：125.0
+POST /api/v1/travel2service/trips/left 、 PUT /api/v1/travel2service/trips 两接口中的最大的字段读写比为：125.0
+
+POST /api/v1/travel2service/trips/left 、 GET /api/v1/travel2service/train_types/{tripId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travel2service/trips/left 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travel2service/trips/left 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travel2service/routes/{tripId} 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：1130.0
+GET /api/v1/travel2service/routes/{tripId} 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：113.0
+GET /api/v1/travel2service/routes/{tripId} 、 DELETE /api/v1/travel2service/trips/{tripId} 两接口中的最大的字段读写比为：113.0
+
+GET /api/v1/travel2service/routes/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1017.0
+GET /api/v1/travel2service/routes/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：113.0
+GET /api/v1/travel2service/routes/{tripId} 、 PUT /api/v1/travel2service/trips 两接口中的最大的字段读写比为：113.0
+
+GET /api/v1/travel2service/routes/{tripId} 、 GET /api/v1/travel2service/train_types/{tripId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travel2service/routes/{tripId} 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travel2service/routes/{tripId} 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：0.0
+
+DELETE /api/v1/travel2service/trips/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：9.0
+DELETE /api/v1/travel2service/trips/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/travel2service/trips 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：11.0
+PUT /api/v1/travel2service/trips 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：1.1
+DELETE /api/v1/travel2service/trips/{tripId} 、 PUT /api/v1/travel2service/trips 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：1130.0
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：113.0
+DELETE /api/v1/travel2service/trips/{tripId} 、 GET /api/v1/travel2service/train_types/{tripId} 两接口中的最大的字段读写比为：113.0
+
+POST /api/v1/travel2service/trip_detail 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：380.0
+POST /api/v1/travel2service/trip_detail 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：38.0
+DELETE /api/v1/travel2service/trips/{tripId} 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：38.0
+
+GET /api/v1/travel2service/admin_trip 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比之和为：100.0
+GET /api/v1/travel2service/admin_trip 接口读取、DELETE /api/v1/travel2service/trips/{tripId} 接口更新的字段的所有读写比的平均值为：10.0
+DELETE /api/v1/travel2service/trips/{tripId} 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：1017.0
+GET /api/v1/travel2service/train_types/{tripId} 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：113.0
+PUT /api/v1/travel2service/trips 、 GET /api/v1/travel2service/train_types/{tripId} 两接口中的最大的字段读写比为：113.0
+
+POST /api/v1/travel2service/trip_detail 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：342.0
+POST /api/v1/travel2service/trip_detail 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：38.0
+PUT /api/v1/travel2service/trips 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：38.0
+
+GET /api/v1/travel2service/admin_trip 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比之和为：90.0
+GET /api/v1/travel2service/admin_trip 接口读取、PUT /api/v1/travel2service/trips 接口更新的字段的所有读写比的平均值为：10.0
+PUT /api/v1/travel2service/trips 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/travel2service/train_types/{tripId} 、 POST /api/v1/travel2service/trip_detail 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travel2service/train_types/{tripId} 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travel2service/trip_detail 、 GET /api/v1/travel2service/admin_trip 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:08.818  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-travel-service
+POST /api/v1/travelservice/trips/left 、 GET /api/v1/travelservice/routes/{tripId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travelservice/trips/left 、 GET /api/v1/travelservice/train_types/{tripId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travelservice/trips/left 、 POST /api/v1/travelservice/trip_detail 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travelservice/trips/left 、 GET /api/v1/travelservice/admin_trip 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travelservice/routes/{tripId} 、 GET /api/v1/travelservice/train_types/{tripId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travelservice/routes/{tripId} 、 POST /api/v1/travelservice/trip_detail 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travelservice/routes/{tripId} 、 GET /api/v1/travelservice/admin_trip 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travelservice/train_types/{tripId} 、 POST /api/v1/travelservice/trip_detail 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/travelservice/train_types/{tripId} 、 GET /api/v1/travelservice/admin_trip 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/travelservice/trip_detail 、 GET /api/v1/travelservice/admin_trip 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:08.864  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-train-service
+GET /api/v1/trainservice/trains 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：30.0
+GET /api/v1/trainservice/trains 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：10.0
+PUT /api/v1/trainservice/trains 、 GET /api/v1/trainservice/trains 两接口中的最大的字段读写比为：10.0
+
+PUT /api/v1/trainservice/trains 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：5.0
+PUT /api/v1/trainservice/trains 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：1.25
+POST /api/v1/trainservice/trains 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：3.0
+POST /api/v1/trainservice/trains 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/trainservice/trains 、 POST /api/v1/trainservice/trains 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/trainservice/trains/{id} 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：792.0
+GET /api/v1/trainservice/trains/{id} 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：264.0
+PUT /api/v1/trainservice/trains 、 GET /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：264.0
+
+PUT /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比之和为：5.0
+PUT /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比的平均值为：1.25
+DELETE /api/v1/trainservice/trains/{id} 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：3.0
+DELETE /api/v1/trainservice/trains/{id} 接口读取、PUT /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/trainservice/trains 、 DELETE /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/trainservice/trains 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：40.0
+GET /api/v1/trainservice/trains 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/trainservice/trains 、 POST /api/v1/trainservice/trains 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/trainservice/trains 、 GET /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比之和为：40.0
+GET /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/trainservice/trains 、 DELETE /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/trainservice/trains/{id} 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：1056.0
+GET /api/v1/trainservice/trains/{id} 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：264.0
+POST /api/v1/trainservice/trains 、 GET /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：264.0
+
+POST /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比之和为：4.0
+POST /api/v1/trainservice/trains 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/trainservice/trains/{id} 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比之和为：4.0
+DELETE /api/v1/trainservice/trains/{id} 接口读取、POST /api/v1/trainservice/trains 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/trainservice/trains 、 DELETE /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/trainservice/trains/{id} 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比之和为：1056.0
+GET /api/v1/trainservice/trains/{id} 接口读取、DELETE /api/v1/trainservice/trains/{id} 接口更新的字段的所有读写比的平均值为：264.0
+GET /api/v1/trainservice/trains/{id} 、 DELETE /api/v1/trainservice/trains/{id} 两接口中的最大的字段读写比为：264.0
+
+2021-09-21 14:15:08.943  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-assurance-service
+2021-09-21 14:15:08.980  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-auth-service
+POST /api/v1/users/login 接口读取、POST /api/v1/auth 接口更新的字段的所有读写比之和为：44.0
+POST /api/v1/users/login 接口读取、POST /api/v1/auth 接口更新的字段的所有读写比的平均值为：11.0
+POST /api/v1/users/login 、 POST /api/v1/auth 两接口中的最大的字段读写比为：11.0
+
+POST /api/v1/users/login 接口读取、DELETE /api/v1/users/{userId} 接口更新的字段的所有读写比之和为：44.0
+POST /api/v1/users/login 接口读取、DELETE /api/v1/users/{userId} 接口更新的字段的所有读写比的平均值为：11.0
+POST /api/v1/users/login 、 DELETE /api/v1/users/{userId} 两接口中的最大的字段读写比为：11.0
+
+POST /api/v1/auth 接口读取、DELETE /api/v1/users/{userId} 接口更新的字段的所有读写比之和为：2.5
+POST /api/v1/auth 接口读取、DELETE /api/v1/users/{userId} 接口更新的字段的所有读写比的平均值为：0.8333333333333334
+DELETE /api/v1/users/{userId} 接口读取、POST /api/v1/auth 接口更新的字段的所有读写比之和为：2.5
+DELETE /api/v1/users/{userId} 接口读取、POST /api/v1/auth 接口更新的字段的所有读写比的平均值为：0.8333333333333334
+POST /api/v1/auth 、 DELETE /api/v1/users/{userId} 两接口中的最大的字段读写比为：1.0
+
+2021-09-21 14:15:09.014  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-route-service
+GET /api/v1/routeservice/routes 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比之和为：65.0
+GET /api/v1/routeservice/routes 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比的平均值为：13.0
+POST /api/v1/routeservice/routes 、 GET /api/v1/routeservice/routes 两接口中的最大的字段读写比为：13.0
+
+GET /api/v1/routeservice/routes/{routeId} 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比之和为：1570.0
+GET /api/v1/routeservice/routes/{routeId} 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比的平均值为：314.0
+POST /api/v1/routeservice/routes 、 GET /api/v1/routeservice/routes/{routeId} 两接口中的最大的字段读写比为：314.0
+
+DELETE /api/v1/routeservice/routes/{routeId} 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比之和为：2.333333333333333
+DELETE /api/v1/routeservice/routes/{routeId} 接口读取、POST /api/v1/routeservice/routes 接口更新的字段的所有读写比的平均值为：0.7777777777777777
+POST /api/v1/routeservice/routes 、 DELETE /api/v1/routeservice/routes/{routeId} 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/routeservice/routes 、 GET /api/v1/routeservice/routes/{routeId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/routeservice/routes 、 DELETE /api/v1/routeservice/routes/{routeId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/routeservice/routes/{routeId} 、 DELETE /api/v1/routeservice/routes/{routeId} 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:09.082  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-food-map-service
+GET /api/v1/foodmapservice/trainfoods/{tripId} 、 POST /api/v1/foodmapservice/foodstores 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:09.109  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-admin-basic-info-service
+2021-09-21 14:15:09.134  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-security-service
+2021-09-21 14:15:09.165  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-user-service
+POST /api/v1/userservice/users/register 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比之和为：7.0
+POST /api/v1/userservice/users/register 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/userservice/users/{userId} 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比之和为：7.0
+DELETE /api/v1/userservice/users/{userId} 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/userservice/users/register 、 DELETE /api/v1/userservice/users/{userId} 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/userservice/users 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比之和为：84.0
+GET /api/v1/userservice/users 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比的平均值为：12.0
+POST /api/v1/userservice/users/register 、 GET /api/v1/userservice/users 两接口中的最大的字段读写比为：12.0
+
+POST /api/v1/userservice/users/register 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比之和为：3.5
+POST /api/v1/userservice/users/register 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比的平均值为：0.5
+PUT /api/v1/userservice/users 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比之和为：7.0
+PUT /api/v1/userservice/users 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/userservice/users/register 、 PUT /api/v1/userservice/users 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/userservice/users/id/{userId} 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比之和为：350.0
+GET /api/v1/userservice/users/id/{userId} 接口读取、POST /api/v1/userservice/users/register 接口更新的字段的所有读写比的平均值为：50.0
+POST /api/v1/userservice/users/register 、 GET /api/v1/userservice/users/id/{userId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/userservice/users 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比之和为：84.0
+GET /api/v1/userservice/users 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比的平均值为：12.0
+DELETE /api/v1/userservice/users/{userId} 、 GET /api/v1/userservice/users 两接口中的最大的字段读写比为：12.0
+
+DELETE /api/v1/userservice/users/{userId} 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比之和为：3.5
+DELETE /api/v1/userservice/users/{userId} 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比的平均值为：0.5
+PUT /api/v1/userservice/users 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比之和为：7.0
+PUT /api/v1/userservice/users 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/userservice/users/{userId} 、 PUT /api/v1/userservice/users 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/userservice/users/id/{userId} 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比之和为：350.0
+GET /api/v1/userservice/users/id/{userId} 接口读取、DELETE /api/v1/userservice/users/{userId} 接口更新的字段的所有读写比的平均值为：50.0
+DELETE /api/v1/userservice/users/{userId} 、 GET /api/v1/userservice/users/id/{userId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/userservice/users 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比之和为：42.0
+GET /api/v1/userservice/users 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比的平均值为：6.0
+GET /api/v1/userservice/users 、 PUT /api/v1/userservice/users 两接口中的最大的字段读写比为：6.0
+
+GET /api/v1/userservice/users 、 GET /api/v1/userservice/users/id/{userId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/userservice/users/id/{userId} 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比之和为：175.0
+GET /api/v1/userservice/users/id/{userId} 接口读取、PUT /api/v1/userservice/users 接口更新的字段的所有读写比的平均值为：25.0
+PUT /api/v1/userservice/users 、 GET /api/v1/userservice/users/id/{userId} 两接口中的最大的字段读写比为：25.0
+
+2021-09-21 14:15:09.213  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-execute-service
+2021-09-21 14:15:09.304  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-ticketinfo-service
+2021-09-21 14:15:09.397  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-preserve-other-service
+2021-09-21 14:15:09.427  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-admin-travel-service
+2021-09-21 14:15:09.454  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-admin-route-service
+2021-09-21 14:15:09.483  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-route-plan-service
+2021-09-21 14:15:09.512  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-order-service
+PUT /api/v1/orderservice/order/admin 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：3.75
+PUT /api/v1/orderservice/order/admin 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：60.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：4.0
+PUT /api/v1/orderservice/order/admin 、 GET /api/v1/orderservice/order/status/{orderId}/{status} 两接口中的最大的字段读写比为：4.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：750.0
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：50.0
+PUT /api/v1/orderservice/order/admin 、 GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：50.0
+
+POST /api/v1/orderservice/order/refresh 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：1200.0
+POST /api/v1/orderservice/order/refresh 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：80.0
+PUT /api/v1/orderservice/order/admin 、 POST /api/v1/orderservice/order/refresh 两接口中的最大的字段读写比为：80.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：2115.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：141.0
+PUT /api/v1/orderservice/order/admin 、 GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 两接口中的最大的字段读写比为：141.0
+
+GET /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：150.0
+GET /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：10.0
+PUT /api/v1/orderservice/order/admin 、 GET /api/v1/orderservice/order 两接口中的最大的字段读写比为：10.0
+
+PUT /api/v1/orderservice/order/admin 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：17.0
+PUT /api/v1/orderservice/order/admin 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：1.0625
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：15.0
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/orderservice/order/admin 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：2.0
+
+PUT /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：1.4166666666666665
+PUT /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.08854166666666666
+POST /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：180.0
+POST /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：12.0
+PUT /api/v1/orderservice/order/admin 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：12.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：2115.0
+POST /api/v1/orderservice/order/tickets 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：141.0
+PUT /api/v1/orderservice/order/admin 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：141.0
+
+PUT /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：3.75
+PUT /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.25
+PUT /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：60.0
+PUT /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：4.0
+PUT /api/v1/orderservice/order/admin 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：4.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：615.0
+GET /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：41.0
+PUT /api/v1/orderservice/order/admin 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：41.0
+
+PUT /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：17.0
+PUT /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：1.0625
+POST /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：15.0
+POST /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/orderservice/order/admin 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：187.5
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：12.5
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：12.5
+
+POST /api/v1/orderservice/order/refresh 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：300.0
+POST /api/v1/orderservice/order/refresh 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：20.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 POST /api/v1/orderservice/order/refresh 两接口中的最大的字段读写比为：20.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：528.75
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：35.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 两接口中的最大的字段读写比为：35.25
+
+GET /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：37.5
+GET /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：2.5
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 GET /api/v1/orderservice/order 两接口中的最大的字段读写比为：2.5
+
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：68.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：4.25
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：3.75
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：8.0
+
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：5.666666666666666
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.35416666666666663
+POST /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：45.0
+POST /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：3.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：3.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：528.75
+POST /api/v1/orderservice/order/tickets 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：35.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：35.25
+
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：15.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：15.0
+PUT /api/v1/orderservice/order 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：1.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：153.75
+GET /api/v1/orderservice/order/{orderId} 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：10.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：10.25
+
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：68.0
+GET /api/v1/orderservice/order/status/{orderId}/{status} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：4.25
+POST /api/v1/orderservice/order/admin 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：3.75
+POST /api/v1/orderservice/order/admin 接口读取、GET /api/v1/orderservice/order/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.25
+GET /api/v1/orderservice/order/status/{orderId}/{status} 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：8.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 POST /api/v1/orderservice/order/refresh 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 GET /api/v1/orderservice/order 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：800.0
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：50.0
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：66.66666666666666
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：4.166666666666666
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：4.166666666666667
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：187.5
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：12.5
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：12.5
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：800.0
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：50.0
+GET /api/v1/orderservice/order/security/{checkDate}/{accountId} 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：50.0
+
+POST /api/v1/orderservice/order/refresh 、 GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderservice/order/refresh 、 GET /api/v1/orderservice/order 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderservice/order/refresh 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：1280.0
+POST /api/v1/orderservice/order/refresh 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：80.0
+POST /api/v1/orderservice/order/refresh 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：80.0
+
+POST /api/v1/orderservice/order/refresh 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：106.66666666666669
+POST /api/v1/orderservice/order/refresh 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：6.666666666666668
+POST /api/v1/orderservice/order/refresh 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：6.666666666666667
+
+POST /api/v1/orderservice/order/refresh 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderservice/order/refresh 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：300.0
+POST /api/v1/orderservice/order/refresh 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：20.0
+POST /api/v1/orderservice/order/refresh 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：20.0
+
+POST /api/v1/orderservice/order/refresh 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderservice/order/refresh 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：1280.0
+POST /api/v1/orderservice/order/refresh 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：80.0
+POST /api/v1/orderservice/order/refresh 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：80.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 GET /api/v1/orderservice/order 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：2256.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：141.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：141.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：188.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：11.75
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：11.75
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：528.75
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：35.25
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：35.25
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：2256.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：141.0
+GET /api/v1/orderservice/order/{travelDate}/{trainNumber} 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：141.0
+
+GET /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：160.0
+GET /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/orderservice/order 、 DELETE /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：13.333333333333336
+GET /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.8333333333333335
+GET /api/v1/orderservice/order 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：0.8333333333333334
+
+GET /api/v1/orderservice/order 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：37.5
+GET /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：2.5
+GET /api/v1/orderservice/order 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：2.5
+
+GET /api/v1/orderservice/order 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：160.0
+GET /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/orderservice/order 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：10.0
+
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：1.333333333333333
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.08333333333333331
+POST /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：192.0
+POST /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：12.0
+DELETE /api/v1/orderservice/order/{orderId} 、 POST /api/v1/orderservice/order 两接口中的最大的字段读写比为：12.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：2256.0
+POST /api/v1/orderservice/order/tickets 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：141.0
+DELETE /api/v1/orderservice/order/{orderId} 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：141.0
+
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：3.75
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.25
+PUT /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：68.0
+PUT /api/v1/orderservice/order 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：4.25
+DELETE /api/v1/orderservice/order/{orderId} 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：8.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：656.0
+GET /api/v1/orderservice/order/{orderId} 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：41.0
+DELETE /api/v1/orderservice/order/{orderId} 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：41.0
+
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：16.0
+DELETE /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/orderservice/order/admin 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比之和为：16.0
+POST /api/v1/orderservice/order/admin 接口读取、DELETE /api/v1/orderservice/order/{orderId} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/orderservice/order/{orderId} 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：1.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：188.0
+POST /api/v1/orderservice/order/tickets 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：11.75
+POST /api/v1/orderservice/order 、 POST /api/v1/orderservice/order/tickets 两接口中的最大的字段读写比为：11.75
+
+POST /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：45.0
+POST /api/v1/orderservice/order 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：3.0
+PUT /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：5.666666666666666
+PUT /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.35416666666666663
+POST /api/v1/orderservice/order 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：3.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：54.66666666666666
+GET /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：3.416666666666666
+POST /api/v1/orderservice/order 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：3.4166666666666665
+
+POST /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：192.0
+POST /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：12.0
+POST /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：1.333333333333333
+POST /api/v1/orderservice/order/admin 接口读取、POST /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.08333333333333331
+POST /api/v1/orderservice/order 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：12.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：528.75
+POST /api/v1/orderservice/order/tickets 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：35.25
+POST /api/v1/orderservice/order/tickets 、 PUT /api/v1/orderservice/order 两接口中的最大的字段读写比为：35.25
+
+POST /api/v1/orderservice/order/tickets 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderservice/order/tickets 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：2256.0
+POST /api/v1/orderservice/order/tickets 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：141.0
+POST /api/v1/orderservice/order/tickets 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：141.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：153.75
+GET /api/v1/orderservice/order/{orderId} 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：10.25
+PUT /api/v1/orderservice/order 、 GET /api/v1/orderservice/order/{orderId} 两接口中的最大的字段读写比为：10.25
+
+PUT /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：68.0
+PUT /api/v1/orderservice/order 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：4.25
+POST /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比之和为：3.75
+POST /api/v1/orderservice/order/admin 接口读取、PUT /api/v1/orderservice/order 接口更新的字段的所有读写比的平均值为：0.25
+PUT /api/v1/orderservice/order 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：8.0
+
+GET /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比之和为：656.0
+GET /api/v1/orderservice/order/{orderId} 接口读取、POST /api/v1/orderservice/order/admin 接口更新的字段的所有读写比的平均值为：41.0
+GET /api/v1/orderservice/order/{orderId} 、 POST /api/v1/orderservice/order/admin 两接口中的最大的字段读写比为：41.0
+
+2021-09-21 14:15:09.575  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-consign-service
+GET /api/v1/consignservice/consigns/order/{id} 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：10.0
+GET /api/v1/consignservice/consigns/order/{id} 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/consignservice/consigns 、 GET /api/v1/consignservice/consigns/order/{id} 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/consignservice/consigns/account/{id} 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：10.0
+GET /api/v1/consignservice/consigns/account/{id} 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/consignservice/consigns 、 GET /api/v1/consignservice/consigns/account/{id} 两接口中的最大的字段读写比为：1.0
+
+PUT /api/v1/consignservice/consigns 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：2.4
+PUT /api/v1/consignservice/consigns 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：0.21818181818181817
+POST /api/v1/consignservice/consigns 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：50.0
+POST /api/v1/consignservice/consigns 接口读取、PUT /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：5.0
+PUT /api/v1/consignservice/consigns 、 POST /api/v1/consignservice/consigns 两接口中的最大的字段读写比为：5.0
+
+GET /api/v1/consignservice/consigns/order/{id} 、 GET /api/v1/consignservice/consigns/account/{id} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/consignservice/consigns/order/{id} 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：2.1999999999999997
+GET /api/v1/consignservice/consigns/order/{id} 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：0.19999999999999998
+GET /api/v1/consignservice/consigns/order/{id} 、 POST /api/v1/consignservice/consigns 两接口中的最大的字段读写比为：0.2
+
+GET /api/v1/consignservice/consigns/account/{id} 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比之和为：2.1999999999999997
+GET /api/v1/consignservice/consigns/account/{id} 接口读取、POST /api/v1/consignservice/consigns 接口更新的字段的所有读写比的平均值为：0.19999999999999998
+GET /api/v1/consignservice/consigns/account/{id} 、 POST /api/v1/consignservice/consigns 两接口中的最大的字段读写比为：0.2
+
+2021-09-21 14:15:09.673  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-preserve-service
+2021-09-21 14:15:09.702  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-order-other-service
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 GET /api/v1/orderOtherService/orderOther/{orderId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 GET /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 POST /api/v1/orderOtherService/orderOther/refresh 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：169.50000000000003
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：11.300000000000002
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 PUT /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：11.3
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：43.46153846153846
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：2.8974358974358974
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：2.8974358974358974
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：47.57894736842105
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：2.9736842105263155
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：2.973684210526316
+
+GET /api/v1/orderOtherService/orderOther/{travelDate}/{trainNumber} 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 GET /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 POST /api/v1/orderOtherService/orderOther/refresh 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：79.49999999999999
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：5.299999999999999
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 PUT /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：5.3
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：20.384615384615383
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：1.3589743589743588
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：1.358974358974359
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：22.315789473684216
+GET /api/v1/orderOtherService/orderOther/{orderId} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：1.3947368421052635
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：1.394736842105263
+
+GET /api/v1/orderOtherService/orderOther/{orderId} 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther/refresh 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther 、 GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：15.0
+GET /api/v1/orderOtherService/orderOther 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：1.0
+GET /api/v1/orderOtherService/orderOther 、 PUT /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：1.0
+
+GET /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：3.846153846153846
+GET /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.2564102564102564
+GET /api/v1/orderOtherService/orderOther 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：0.2564102564102564
+
+GET /api/v1/orderOtherService/orderOther 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：4.2105263157894735
+GET /api/v1/orderOtherService/orderOther 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：0.2631578947368421
+GET /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：0.2631578947368421
+
+GET /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderOtherService/orderOther/refresh 、 GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：105.0
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：7.0
+POST /api/v1/orderOtherService/orderOther/refresh 、 PUT /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：7.0
+
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：26.92307692307693
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：1.7948717948717954
+POST /api/v1/orderOtherService/orderOther/refresh 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：1.794871794871795
+
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：29.473684210526304
+POST /api/v1/orderOtherService/orderOther/refresh 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：1.842105263157894
+POST /api/v1/orderOtherService/orderOther/refresh 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：1.8421052631578947
+
+POST /api/v1/orderOtherService/orderOther/refresh 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：75.0
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：5.0
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 、 PUT /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：5.0
+
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：19.230769230769234
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：1.2820512820512822
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：1.2820512820512822
+
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：21.052631578947377
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：1.315789473684211
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：1.3157894736842106
+
+GET /api/v1/orderOtherService/orderOther/security/{checkDate}/{accountId} 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：0.0
+
+PUT /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：3.846153846153846
+PUT /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.2564102564102564
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：58.499999999999986
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：3.899999999999999
+PUT /api/v1/orderOtherService/orderOther 、 GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 两接口中的最大的字段读写比为：3.9
+
+PUT /api/v1/orderOtherService/orderOther 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：4.473684210526316
+PUT /api/v1/orderOtherService/orderOther 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：0.27960526315789475
+POST /api/v1/orderOtherService/orderOther 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：56.999999999999986
+POST /api/v1/orderOtherService/orderOther 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：3.799999999999999
+PUT /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：3.8
+
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：169.50000000000003
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、PUT /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：11.300000000000002
+PUT /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：11.3
+
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：17.447368421052637
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：1.0904605263157898
+POST /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：14.615384615384615
+POST /api/v1/orderOtherService/orderOther 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：0.9743589743589743
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 、 POST /api/v1/orderOtherService/orderOther 两接口中的最大的字段读写比为：2.0526315789473686
+
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比之和为：43.46153846153846
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 接口更新的字段的所有读写比的平均值为：2.8974358974358974
+GET /api/v1/orderOtherService/orderOther/status/{orderId}/{status} 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：2.8974358974358974
+
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比之和为：47.57894736842105
+POST /api/v1/orderOtherService/orderOther/tickets 接口读取、POST /api/v1/orderOtherService/orderOther 接口更新的字段的所有读写比的平均值为：2.9736842105263155
+POST /api/v1/orderOtherService/orderOther 、 POST /api/v1/orderOtherService/orderOther/tickets 两接口中的最大的字段读写比为：2.973684210526316
+
+2021-09-21 14:15:09.768  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-config-service
+DELETE /api/v1/configservice/configs/{configName} 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：3.0
+DELETE /api/v1/configservice/configs/{configName} 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比之和为：3.0
+POST /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/configservice/configs/{configName} 、 POST /api/v1/configservice/configs 两接口中的最大的字段读写比为：1.0
+
+DELETE /api/v1/configservice/configs/{configName} 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：2.0
+DELETE /api/v1/configservice/configs/{configName} 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比之和为：4.0
+PUT /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比的平均值为：1.3333333333333333
+DELETE /api/v1/configservice/configs/{configName} 、 PUT /api/v1/configservice/configs 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/configservice/configs/{configName} 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比之和为：762.0
+GET /api/v1/configservice/configs/{configName} 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比的平均值为：254.0
+DELETE /api/v1/configservice/configs/{configName} 、 GET /api/v1/configservice/configs/{configName} 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比之和为：30.0
+GET /api/v1/configservice/configs 接口读取、DELETE /api/v1/configservice/configs/{configName} 接口更新的字段的所有读写比的平均值为：10.0
+DELETE /api/v1/configservice/configs/{configName} 、 GET /api/v1/configservice/configs 两接口中的最大的字段读写比为：10.0
+
+POST /api/v1/configservice/configs 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：2.0
+POST /api/v1/configservice/configs 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/configservice/configs 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：4.0
+PUT /api/v1/configservice/configs 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：1.3333333333333333
+POST /api/v1/configservice/configs 、 PUT /api/v1/configservice/configs 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/configservice/configs/{configName} 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：762.0
+GET /api/v1/configservice/configs/{configName} 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：254.0
+POST /api/v1/configservice/configs 、 GET /api/v1/configservice/configs/{configName} 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/configservice/configs 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：30.0
+GET /api/v1/configservice/configs 接口读取、POST /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：10.0
+POST /api/v1/configservice/configs 、 GET /api/v1/configservice/configs 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/configservice/configs/{configName} 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：508.0
+GET /api/v1/configservice/configs/{configName} 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：254.0
+PUT /api/v1/configservice/configs 、 GET /api/v1/configservice/configs/{configName} 两接口中的最大的字段读写比为：254.0
+
+GET /api/v1/configservice/configs 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比之和为：20.0
+GET /api/v1/configservice/configs 接口读取、PUT /api/v1/configservice/configs 接口更新的字段的所有读写比的平均值为：10.0
+PUT /api/v1/configservice/configs 、 GET /api/v1/configservice/configs 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/configservice/configs/{configName} 、 GET /api/v1/configservice/configs 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:09.806  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-contacts-service
+POST /api/v1/contactservice/contacts/admin 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比之和为：6.0
+POST /api/v1/contactservice/contacts/admin 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比之和为：6.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/contactservice/contacts/admin 、 DELETE /api/v1/contactservice/contacts/{contactsId} 两接口中的最大的字段读写比为：1.0
+
+POST /api/v1/contactservice/contacts/admin 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比之和为：5.0
+POST /api/v1/contactservice/contacts/admin 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/contactservice/contacts 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比之和为：7.0
+PUT /api/v1/contactservice/contacts 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比的平均值为：1.1666666666666667
+POST /api/v1/contactservice/contacts/admin 、 PUT /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比之和为：300.0
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比的平均值为：50.0
+POST /api/v1/contactservice/contacts/admin 、 GET /api/v1/contactservice/contacts/account/{accountId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/contactservice/contacts 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比之和为：72.0
+GET /api/v1/contactservice/contacts 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比的平均值为：12.0
+POST /api/v1/contactservice/contacts/admin 、 GET /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：12.0
+
+GET /api/v1/contactservice/contacts/{id} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比之和为：300.0
+GET /api/v1/contactservice/contacts/{id} 接口读取、POST /api/v1/contactservice/contacts/admin 接口更新的字段的所有读写比的平均值为：50.0
+POST /api/v1/contactservice/contacts/admin 、 GET /api/v1/contactservice/contacts/{id} 两接口中的最大的字段读写比为：50.0
+
+DELETE /api/v1/contactservice/contacts/{contactsId} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比之和为：5.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/contactservice/contacts 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比之和为：7.0
+PUT /api/v1/contactservice/contacts 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比的平均值为：1.1666666666666667
+DELETE /api/v1/contactservice/contacts/{contactsId} 、 PUT /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：2.0
+
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比之和为：300.0
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比的平均值为：50.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 、 GET /api/v1/contactservice/contacts/account/{accountId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/contactservice/contacts 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比之和为：72.0
+GET /api/v1/contactservice/contacts 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比的平均值为：12.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 、 GET /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：12.0
+
+GET /api/v1/contactservice/contacts/{id} 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比之和为：300.0
+GET /api/v1/contactservice/contacts/{id} 接口读取、DELETE /api/v1/contactservice/contacts/{contactsId} 接口更新的字段的所有读写比的平均值为：50.0
+DELETE /api/v1/contactservice/contacts/{contactsId} 、 GET /api/v1/contactservice/contacts/{id} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比之和为：250.0
+GET /api/v1/contactservice/contacts/account/{accountId} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比的平均值为：50.0
+PUT /api/v1/contactservice/contacts 、 GET /api/v1/contactservice/contacts/account/{accountId} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/contactservice/contacts 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比之和为：60.0
+GET /api/v1/contactservice/contacts 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比的平均值为：12.0
+PUT /api/v1/contactservice/contacts 、 GET /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：12.0
+
+GET /api/v1/contactservice/contacts/{id} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比之和为：250.0
+GET /api/v1/contactservice/contacts/{id} 接口读取、PUT /api/v1/contactservice/contacts 接口更新的字段的所有读写比的平均值为：50.0
+PUT /api/v1/contactservice/contacts 、 GET /api/v1/contactservice/contacts/{id} 两接口中的最大的字段读写比为：50.0
+
+GET /api/v1/contactservice/contacts/account/{accountId} 、 GET /api/v1/contactservice/contacts 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/contactservice/contacts/account/{accountId} 、 GET /api/v1/contactservice/contacts/{id} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/contactservice/contacts 、 GET /api/v1/contactservice/contacts/{id} 两接口中的最大的字段读写比为：0.0
+
+2021-09-21 14:15:09.837  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-food-service
+2021-09-21 14:15:09.868  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-station-service
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 POST /api/v1/stationservice/stations/namelist 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 GET /api/v1/stationservice/stations 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 GET /api/v1/stationservice/stations/id/{stationNameForId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：12.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：4.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 DELETE /api/v1/stationservice/stations 两接口中的最大的字段读写比为：4.0
+
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：12.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：4.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 POST /api/v1/stationservice/stations 两接口中的最大的字段读写比为：4.0
+
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：8.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：4.0
+GET /api/v1/stationservice/stations/name/{stationIdForName} 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：4.0
+
+POST /api/v1/stationservice/stations/namelist 、 GET /api/v1/stationservice/stations 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/stationservice/stations/namelist 、 GET /api/v1/stationservice/stations/id/{stationNameForId} 两接口中的最大的字段读写比为：0.0
+
+POST /api/v1/stationservice/stations/namelist 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：600.0
+POST /api/v1/stationservice/stations/namelist 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：200.0
+POST /api/v1/stationservice/stations/namelist 、 DELETE /api/v1/stationservice/stations 两接口中的最大的字段读写比为：200.0
+
+POST /api/v1/stationservice/stations/namelist 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：600.0
+POST /api/v1/stationservice/stations/namelist 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：200.0
+POST /api/v1/stationservice/stations/namelist 、 POST /api/v1/stationservice/stations 两接口中的最大的字段读写比为：200.0
+
+POST /api/v1/stationservice/stations/namelist 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：400.0
+POST /api/v1/stationservice/stations/namelist 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：200.0
+POST /api/v1/stationservice/stations/namelist 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：200.0
+
+GET /api/v1/stationservice/stations 、 GET /api/v1/stationservice/stations/id/{stationNameForId} 两接口中的最大的字段读写比为：0.0
+
+GET /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：30.0
+GET /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/stationservice/stations 、 DELETE /api/v1/stationservice/stations 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：30.0
+GET /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/stationservice/stations 、 POST /api/v1/stationservice/stations 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：20.0
+GET /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/stationservice/stations 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：10.0
+
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：912.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：304.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 、 DELETE /api/v1/stationservice/stations 两接口中的最大的字段读写比为：304.0
+
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：912.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：304.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 、 POST /api/v1/stationservice/stations 两接口中的最大的字段读写比为：304.0
+
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：608.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：304.0
+GET /api/v1/stationservice/stations/id/{stationNameForId} 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：304.0
+
+DELETE /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：3.0
+DELETE /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.0
+POST /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：3.0
+POST /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.0
+DELETE /api/v1/stationservice/stations 、 POST /api/v1/stationservice/stations 两接口中的最大的字段读写比为：1.0
+
+DELETE /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：2.0
+DELETE /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：4.0
+PUT /api/v1/stationservice/stations 接口读取、DELETE /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.3333333333333333
+DELETE /api/v1/stationservice/stations 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：2.0
+
+POST /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：2.0
+POST /api/v1/stationservice/stations 接口读取、PUT /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.0
+PUT /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比之和为：4.0
+PUT /api/v1/stationservice/stations 接口读取、POST /api/v1/stationservice/stations 接口更新的字段的所有读写比的平均值为：1.3333333333333333
+POST /api/v1/stationservice/stations 、 PUT /api/v1/stationservice/stations 两接口中的最大的字段读写比为：2.0
+
+2021-09-21 14:15:09.917  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-notification-service
+2021-09-21 14:15:09.946  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-travel-plan-service
+2021-09-21 14:15:09.973  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-rebook-service
+2021-09-21 14:15:10.006  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-admin-order-service
+2021-09-21 14:15:10.039  INFO 7092 --- [io-12301-exec-9] d.s.i.DataConflictCalculationServiceImpl : service:ts-inside-payment-service
+POST /api/v1/inside_pay_service/inside_payment 接口读取、GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口更新的字段的所有读写比之和为：11.5
+POST /api/v1/inside_pay_service/inside_payment 接口读取、GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口更新的字段的所有读写比的平均值为：2.875
+GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口读取、POST /api/v1/inside_pay_service/inside_payment 接口更新的字段的所有读写比之和为：0.43478260869565216
+GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口读取、POST /api/v1/inside_pay_service/inside_payment 接口更新的字段的所有读写比的平均值为：0.43478260869565216
+POST /api/v1/inside_pay_service/inside_payment 、 GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 两接口中的最大的字段读写比为：4.6
+
+POST /api/v1/inside_pay_service/inside_payment 接口读取、GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口更新的字段的所有读写比之和为：115.0
+POST /api/v1/inside_pay_service/inside_payment 接口读取、GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口更新的字段的所有读写比的平均值为：28.75
+GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口读取、POST /api/v1/inside_pay_service/inside_payment 接口更新的字段的所有读写比之和为：0.043478260869565216
+GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口读取、POST /api/v1/inside_pay_service/inside_payment 接口更新的字段的所有读写比的平均值为：0.043478260869565216
+POST /api/v1/inside_pay_service/inside_payment 、 GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 两接口中的最大的字段读写比为：46.0
+
+GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口读取、GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口更新的字段的所有读写比之和为：40.0
+GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口读取、GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口更新的字段的所有读写比的平均值为：10.0
+GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口读取、GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口更新的字段的所有读写比之和为：0.4
+GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 接口读取、GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 接口更新的字段的所有读写比的平均值为：0.1
+GET /api/v1/inside_pay_service/inside_payment/drawback/{userId}/{money} 、 GET /api/v1/inside_pay_service/inside_payment/{userId}/{money} 两接口中的最大的字段读写比为：10.0

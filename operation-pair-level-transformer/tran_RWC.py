@@ -10,7 +10,7 @@ if __name__ == '__main__':
     sheet1 = book.add_sheet('Sheet1', cell_overwrite_ok=True)
     sheet1.write(0,1,"读写比的平均值")
     sheet1.write(0,2,"最大的字段读写比")
-    f = open("transfer.txt", encoding='gbk')
+    f = open("transfer.txt", encoding='utf-8')
     # 使用readline()读文件
     num = 1;
     while True:

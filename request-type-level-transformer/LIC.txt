@@ -1,0 +1,53 @@
+POST /api/v1/adminbasicservice/adminbasic/configs	RANK 1: [PATH ID]1567014252198,[LENGTH]2、
+DELETE /api/v1/adminbasicservice/adminbasic/prices	RANK 1: [PATH ID]-960891626990,[LENGTH]2、
+PUT /api/v1/admintravelservice/admintravel	RANK 1: [PATH ID]928674987310,[LENGTH]2、
+GET /api/v1/adminbasicservice/adminbasic/prices	RANK 1: [PATH ID]-1136572769859,[LENGTH]2、
+POST /api/v1/preserveotherservice/preserveOther	RANK 1: [PATH ID]8505553809117377111,[LENGTH]81、RANK 2: [PATH ID]8505553916059778577,[LENGTH]81、RANK 3: [PATH ID]8505554450020505309,[LENGTH]80、RANK 4: [PATH ID]8505554556962906775,[LENGTH]80、RANK 5: [PATH ID]8505551974523183234,[LENGTH]80、RANK 6: [PATH ID]8505552081465584700,[LENGTH]80、RANK 7: [PATH ID]8505552615426311432,[LENGTH]79、RANK 8: [PATH ID]8505552722368712898,[LENGTH]79、
+PUT /api/v1/adminbasicservice/adminbasic/prices	RANK 1: [PATH ID]-2082529056554,[LENGTH]2、
+DELETE /api/v1/adminuserservice/users/{userId}	RANK 1: [PATH ID]-461869886903038,[LENGTH]3、
+POST /api/v1/users/login	RANK 1: [PATH ID]1874014755180,[LENGTH]2、
+POST /api/v1/adminbasicservice/adminbasic/trains	RANK 1: [PATH ID]-2074854083191,[LENGTH]2、
+GET /api/v1/admintravelservice/admintravel	RANK 1: [PATH ID]-27606689715545243,[LENGTH]23、
+GET /api/v1/adminorderservice/adminorder	RANK 1: [PATH ID]-3073878960660,[LENGTH]3、
+DELETE /api/v1/adminbasicservice/adminbasic/stations	RANK 1: [PATH ID]-357318937848,[LENGTH]2、
+POST /api/v1/orderOtherService/orderOther/refresh	RANK 1: [PATH ID]-670669253977,[LENGTH]2、
+PUT /api/v1/adminuserservice/users	RANK 1: [PATH ID]21714666991,[LENGTH]2、
+POST /api/v1/orderservice/order/refresh	RANK 1: [PATH ID]-669458543310,[LENGTH]2、
+POST /api/v1/travel2service/trips/left	RANK 1: [PATH ID]4534854414007538854,[LENGTH]55、
+POST /api/v1/rebookservice/rebook	RANK 1: [PATH ID]-4114037902326225888,[LENGTH]57、RANK 2: [PATH ID]-4114038910143386547,[LENGTH]56、
+GET /api/v1/foodservice/foods/{date}/{startStation}/{endStation}/{tripId}	RANK 1: [PATH ID]-1679858921238889,[LENGTH]7、
+DELETE /api/v1/adminbasicservice/adminbasic/trains/{id}	RANK 1: [PATH ID]-1154941231056,[LENGTH]2、
+POST /api/v1/admintravelservice/admintravel	RANK 1: [PATH ID]-514527425411,[LENGTH]2、
+DELETE /api/v1/adminorderservice/adminorder/{orderId}/{trainNumber}	RANK 1: [PATH ID]1596454995229,[LENGTH]2、
+PUT /api/v1/adminbasicservice/adminbasic/contacts	RANK 1: [PATH ID]-753909982970,[LENGTH]2、
+POST /api/v1/travelplanservice/travelPlan/quickest	RANK 1: [PATH ID]5837938330287674723,[LENGTH]92、
+POST /api/v1/preserveservice/preserve	RANK 1: [PATH ID]2472834329845653001,[LENGTH]75、RANK 2: [PATH ID]2472835077691182665,[LENGTH]74、RANK 3: [PATH ID]2472832495251459124,[LENGTH]74、RANK 4: [PATH ID]2472832602193860590,[LENGTH]74、RANK 5: [PATH ID]2472833136154587322,[LENGTH]73、RANK 6: [PATH ID]2472833243096988788,[LENGTH]73、
+GET /api/v1/executeservice/execute/collected/{orderId}	RANK 1: [PATH ID]712976316161,[LENGTH]4、
+GET /api/v1/adminbasicservice/adminbasic/contacts	RANK 1: [PATH ID]1646689461293,[LENGTH]2、
+GET /api/v1/adminbasicservice/adminbasic/trains	RANK 1: [PATH ID]1120255300703,[LENGTH]2、
+DELETE /api/v1/admintravelservice/admintravel/{tripId}	RANK 1: [PATH ID]1221523216973,[LENGTH]2、
+GET /api/v1/contactservice/contacts/account/{accountId}	RANK 1: [PATH ID]1962340938,[LENGTH]1、
+GET /api/v1/adminbasicservice/adminbasic/configs	RANK 1: [PATH ID]-485557404400,[LENGTH]2、
+PUT /api/v1/adminbasicservice/adminbasic/trains	RANK 1: [PATH ID]174299014008,[LENGTH]2、
+PUT /api/v1/consignservice/consigns	RANK 1: [PATH ID]978822579971,[LENGTH]2、
+POST /api/v1/adminbasicservice/adminbasic/stations	RANK 1: [PATH ID]-1126201468259,[LENGTH]2、
+POST /api/v1/adminbasicservice/adminbasic/prices	RANK 1: [PATH ID]-71074596121,[LENGTH]2、
+GET /api/v1/executeservice/execute/execute/{orderId}	RANK 1: [PATH ID]715885081709,[LENGTH]4、
+PUT /api/v1/adminorderservice/adminorder	RANK 1: [PATH ID]344869344193,[LENGTH]2、
+PUT /api/v1/adminbasicservice/adminbasic/configs	RANK 1: [PATH ID]-756895926569,[LENGTH]2、
+POST /api/v1/travelservice/trips/left	RANK 1: [PATH ID]8329261161797897655,[LENGTH]49、
+DELETE /api/v1/adminrouteservice/adminroute/{routeId}	RANK 1: [PATH ID]-1773833404854,[LENGTH]2、
+DELETE /api/v1/adminbasicservice/adminbasic/configs/{name}	RANK 1: [PATH ID]1530054713891,[LENGTH]2、
+GET /api/v1/cancelservice/cancel/{orderId}/{loginId}	RANK 1: [PATH ID]2060658209094,[LENGTH]5、
+POST /api/v1/adminrouteservice/adminroute	RANK 1: [PATH ID]1144750155856,[LENGTH]2、
+GET /api/v1/consignservice/consigns/order/{id}	RANK 1: [PATH ID]1446944300,[LENGTH]1、
+DELETE /api/v1/adminbasicservice/adminbasic/contacts/{contactsId}	RANK 1: [PATH ID]1110868455675,[LENGTH]2、
+POST /api/v1/adminuserservice/users	RANK 1: [PATH ID]1719243042664628,[LENGTH]3、
+GET /api/v1/consignservice/consigns/account/{id}	RANK 1: [PATH ID]952457133,[LENGTH]1、
+GET /api/v1/adminuserservice/users	RANK 1: [PATH ID]2004284328936,[LENGTH]2、
+POST /api/v1/adminbasicservice/adminbasic/contacts	RANK 1: [PATH ID]-524440315177,[LENGTH]2、
+POST /api/v1/inside_pay_service/inside_payment	RANK 1: [PATH ID]-747237777535,[LENGTH]3、RANK 2: [PATH ID]1924662011583,[LENGTH]3、RANK 3: [PATH ID]-285359532529,[LENGTH]2、RANK 4: [PATH ID]1460158052782,[LENGTH]2、
+GET /api/v1/adminbasicservice/adminbasic/stations	RANK 1: [PATH ID]-629917824013,[LENGTH]2、
+GET /api/v1/adminrouteservice/adminroute	RANK 1: [PATH ID]84463603898,[LENGTH]2、
+POST /api/v1/adminorderservice/adminorder	RANK 1: [PATH ID]-145859816752,[LENGTH]2、
+PUT /api/v1/adminbasicservice/adminbasic/stations	RANK 1: [PATH ID]1225795322060,[LENGTH]2、
